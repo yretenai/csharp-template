@@ -1,2 +1,0 @@
-# naomi-csharp-template
-
